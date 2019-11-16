@@ -1,0 +1,3 @@
+﻿USE testdb
+
+DELETE FROM TB_USER WHERE ID = 'U001'
